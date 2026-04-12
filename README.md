@@ -13,9 +13,5 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,react,fastapi,typescript,aws,materialui,git,postgresql)](https://skillicons.dev)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=russeldc&show_icons=true&locale=en&layout=compact" alt="russeldc" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=russeldc&show_icons=true&locale=en" alt="russeldc" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=russeldc&" alt="russeldc" /></p>
 
