@@ -11,7 +11,7 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,react,fastapi,typescript,aws,materialui,git,postgresql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,react,fastapi,typescript,aws,materialui,git,postgresql,laravel,aws,databricks)](https://skillicons.dev)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=russeldc&" alt="russeldc" /></p>
 
